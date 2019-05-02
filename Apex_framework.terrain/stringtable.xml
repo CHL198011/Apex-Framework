@@ -19,7 +19,8 @@ _____________________________________________________________>
 		<Original>Drag</Original>
 		<German>Ziehen</German>
 		<French>Drag</French>
-		<Chinese>拖累</Chinese>
+		<Chinesesimp>拖动</Chinesesimp>
+		<Chinese>拖動</Chinese>
 		<Czech>Drag</Czech>
 		<Russian>бремя</Russian>
 	</Key>
@@ -27,7 +28,8 @@ _____________________________________________________________>
 		<Original>Carry</Original>
 		<German>Tragen</German>
 		<French>Carry</French>
-		<Chinese>进</Chinese>
+		<Chinesesimp>搬运</Chinesesimp>
+		<Chinese>搬運</Chinese>
 		<Czech>Nést</Czech>
 		<Russian>нести</Russian>
 	</Key>
